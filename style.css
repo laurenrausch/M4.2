@@ -46,7 +46,6 @@ nav {
 
 nav ul {
     color: black;
-    list-style: none;
     padding: 0;
     text-align: center;
 }
@@ -100,7 +99,6 @@ main {
     text-align: center;
     display: flex;
     padding: 10px;
-    max-width: 1000px;
     margin-right: 2px;
 }
 
