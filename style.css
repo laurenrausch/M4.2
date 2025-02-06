@@ -1,0 +1,113 @@
+body {
+    color: black;
+    background-color: rgb(80, 109, 255);
+}
+
+header {
+    background-color: rgb(69, 96, 230);
+    text-align: center;
+}
+
+.dove {
+    display: flex;
+    align-items: center;
+    font-size: 1.3em;
+    font-family: Tahoma, sans-serif;
+}
+
+.dove img {
+    right: 0;
+    display: inline;
+    height: 50px;
+    width: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    padding: 5px;
+    margin: 0 auto;
+    font-family: Tahoma, sans-serif;
+}
+
+h2 {
+    color: black;
+    font-family: Tahoma, sans-serif;
+    font-size: 1.8em;
+}
+
+nav {
+    background-color: rgb(54, 80, 211);
+    padding: 1.3px 0;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Tahoma, sans-serif;
+}
+
+nav ul {
+    color: black;
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    color: black;
+    display: inline;
+    margin: 0 40px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.welcome {
+    background: rgb(105, 129, 248);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgb(6, 6, 6);
+    margin-top: 10px;
+    margin-right: 12px;
+    font-family: Tahoma, sans-serif;
+}
+
+.photos {
+    background: rgb(105, 129, 248);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgb(6, 6, 6);
+    margin-top: 10px;
+    font-family: Tahoma, sans-serif;
+}
+
+.birds {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.birds img {
+    width: 120px;
+}
+
+p {
+    color: black;
+}
+
+main {
+    background-color: rgb(80, 109, 255);
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    max-width: 1000px;
+    margin-right: 2px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(105, 129, 248);
+    box-shadow: 2px 2px 10px rgb(6, 6, 6);
+    padding: 2px;
+    font-family: Tahoma, sans-serif;
+}
