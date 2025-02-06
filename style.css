@@ -12,7 +12,7 @@ header {
     display: flex;
     align-items: center;
     font-size: 1.3em;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }
 
 .dove img {
@@ -27,12 +27,12 @@ h1 {
     color: black;
     padding: 5px;
     margin: 0 auto;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }
 
 h2 {
     color: black;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
     font-size: 1.8em;
 }
 
@@ -41,7 +41,7 @@ nav {
     padding: 1.3px 0;
     font-weight: bold;
     text-decoration: none;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }
 
 nav ul {
@@ -69,7 +69,7 @@ a {
     box-shadow: 2px 2px 10px rgb(6, 6, 6);
     margin-top: 10px;
     margin-right: 12px;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }
 
 .photos {
@@ -78,7 +78,7 @@ a {
     text-align: center;
     box-shadow: 2px 2px 10px rgb(6, 6, 6);
     margin-top: 10px;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }
 
 .birds {
@@ -109,5 +109,5 @@ footer {
     background-color: rgb(105, 129, 248);
     box-shadow: 2px 2px 10px rgb(6, 6, 6);
     padding: 2px;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Courier New';
 }

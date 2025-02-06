@@ -22,5 +22,10 @@ You can also run the website within VSCode through the built in Run and Debug to
     Ctrl+Shift+D
 
 ### Outside Sources 
+MozDevNet. “Font-Family - CSS: Cascading Style Sheets: MDN.” MDN Web Docs, developer.mozilla.org/en-US/docs/Web/CSS/font-family. Accessed 05 Feb. 2025. 
+
+MozDevNet. “Grid - CSS: Cascading Style Sheets: MDN.” MDN Web Docs, developer.mozilla.org/en-US/docs/Web/CSS/grid. Accessed 05 Feb. 2025. 
+
+MozDevNet. “Flex - CSS: Cascading Style Sheets: MDN.” MDN Web Docs, developer.mozilla.org/en-US/docs/Web/CSS/flex. Accessed 05 Feb. 2025. 
 
 
